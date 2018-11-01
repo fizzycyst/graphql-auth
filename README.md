@@ -1,2 +1,6 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+#### Test project to workout how to use GraphQL in a React App
+
+Uses GraphQL, Express, React and Passport.
+
+
+Works ina  very simplistic manner
